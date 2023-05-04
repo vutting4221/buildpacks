@@ -1,5 +1,5 @@
 click==7.1.2
-Flask==1.1.2
+Flask==2.2.5
 functions-framework==1.6.0
 gunicorn==20.0.4
 itsdangerous==1.1.0
